@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maximumGap", "maximumGap\ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Word Pattern", "Word Pattern\Word Pattern.vcxproj", "{04483E7E-F733-4DF5-BD88-16FA5DBE392A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gameOfLife", "gameOfLife\gameOfLife.vcxproj", "{B7AF7514-7D45-4151-9150-AB6132529E7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{04483E7E-F733-4DF5-BD88-16FA5DBE392A}.Debug|Win32.Build.0 = Debug|Win32
 		{04483E7E-F733-4DF5-BD88-16FA5DBE392A}.Release|Win32.ActiveCfg = Release|Win32
 		{04483E7E-F733-4DF5-BD88-16FA5DBE392A}.Release|Win32.Build.0 = Release|Win32
+		{B7AF7514-7D45-4151-9150-AB6132529E7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7AF7514-7D45-4151-9150-AB6132529E7B}.Debug|Win32.Build.0 = Debug|Win32
+		{B7AF7514-7D45-4151-9150-AB6132529E7B}.Release|Win32.ActiveCfg = Release|Win32
+		{B7AF7514-7D45-4151-9150-AB6132529E7B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
